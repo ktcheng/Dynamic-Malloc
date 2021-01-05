@@ -10,5 +10,7 @@ N.B. As this is a project pulled from a CS course, the posting of this repositor
 
 # Performance
 Throughput Ops: 20884.960
+
 Scaled Utilization: 90.5%
+
 Unscaled Utilization: 97%
